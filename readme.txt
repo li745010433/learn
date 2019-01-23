@@ -1,3 +1,3 @@
-git init 初始化配置文件
-反复添加多次文件
-完成提交
+creating a new branch is quick a simple
+creating a new branch is quick and simple
+ push my PC sing
